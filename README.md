@@ -1,6 +1,6 @@
 # 中南大学研究生学位论文开题报告 LaTeX 模板
 
-南大学研究生学位论文开题报告 LaTeX 模板。本模板采用了如下的参考文献格式，示例如下：
+中南大学研究生学位论文开题报告 LaTeX 模板。本模板采用了如下的参考文献格式，示例如下：
 
 ```
 Aubreville, M., Stathonikos, N., Bertram, C. A., Klopfleisch, R., Ter Hoeve, N., Ciompi, F., Wilm, F., Marzahl, C., Donovan, T. A., Maier, A. et al. (2023). Mitosis domain generalization in histopathology images—the midog challenge. 84 Medical Image Analysis, , 102699.
