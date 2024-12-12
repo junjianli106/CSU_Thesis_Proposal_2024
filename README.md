@@ -6,6 +6,10 @@
 Aubreville, M., Stathonikos, N., Bertram, C. A., Klopfleisch, R., Ter Hoeve, N., Ciompi, F., Wilm, F., Marzahl, C., Donovan, T. A., Maier, A. et al. (2023). Mitosis domain generalization in histopathology images—the midog challenge. 84 Medical Image Analysis, , 102699.
 ```
 
+注意： 得使用XeLatex编译
+注意： 得使用XeLatex编译
+注意： 得使用XeLatex编译
+
 ## 特点
 
 - 默认每节内容从新页开始（使用 `\newpage` 命令）
