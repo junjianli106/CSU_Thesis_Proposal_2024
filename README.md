@@ -7,7 +7,9 @@ Aubreville, M., Stathonikos, N., Bertram, C. A., Klopfleisch, R., Ter Hoeve, N.,
 ```
 
 注意： 得使用XeLatex编译
+
 注意： 得使用XeLatex编译
+
 注意： 得使用XeLatex编译
 
 ## 特点
@@ -15,6 +17,7 @@ Aubreville, M., Stathonikos, N., Bertram, C. A., Klopfleisch, R., Ter Hoeve, N.,
 - 默认每节内容从新页开始（使用 `\newpage` 命令）
 - 可通过删除 `\newpage` 命令轻松取消章节换页
 - 符合中南大学开题报告规范要求
+- 添加中南大学背景水印
 
 ## 致谢
 
