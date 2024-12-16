@@ -16,6 +16,19 @@
 \usepackage{amsthm}
 \usepackage{type1cm}
 \usepackage{type1ec}
+\usepackage{background}
+\usepackage{graphicx}
+
+% 全局设置背景图片
+\backgroundsetup{
+    scale=1, % 缩放系数
+    angle=0, % 旋转角度
+    opacity=0.6, % 透明度
+    contents={%
+        \includegraphics[width=\paperwidth,height=\paperheight,keepaspectratio]{./figures/csu_bg.jpg}
+    }
+}
+
 
 %\usepackage[a4,frame,center]{crop}
 %\usepackage{noinfo}
@@ -105,9 +118,8 @@ V = G\rho \iiint\limits_\Omega  {\frac{1}{{\sqrt {\Delta x_1^2 + \Delta x_2^2 + 
 
 \section{进度安排和预期成果}
 
-\begin{picture}(100,10)(0,0)
-\put(-29.5,5){\line(1,0){472.5}}
-\end{picture}
+\newpage
+
 \section{已有基础{\kaishu (与本项目有关的工作积累和已取得的成绩、已具备的条件、尚缺少的条件及解决途径)}}
 
 
